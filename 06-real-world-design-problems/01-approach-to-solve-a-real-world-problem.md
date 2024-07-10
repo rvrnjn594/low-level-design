@@ -110,7 +110,7 @@ The two most popular design approaches are top-down and bottom-up design.
 > - It's mainly used in structural programming.
 > - It allows for a high amount of data redundancy.
 >
-> ## **Bottom-up**
+> **Bottom-up**
 >
 > - This approach identifies the smallest components and uses those components as a base to design bigger components.
 > - It's a forward-looking approach.
